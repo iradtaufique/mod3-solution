@@ -10,8 +10,16 @@
 
 }
 
-.title{
+h1.title{
 	text-align: center;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+h4.title{
+	text-align: center;
+	font-weight: bold;
+	font-size: 23px;
 }
 
 .body-content{
